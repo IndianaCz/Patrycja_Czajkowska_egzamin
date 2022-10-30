@@ -1,0 +1,18 @@
+body {
+  background-color: rgba(195, 216, 216, 0.877);
+}
+
+.wrapper {
+  width: 400px;
+  position: absolute;
+  padding: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+}
+
+.btn-primary {
+  background-color: rgba(71, 110, 110, 0.616);
+  border: 1px solid white;
+}/*# sourceMappingURL=style.css.map */
